@@ -174,7 +174,7 @@ SmartBorder-AI/
 
 ## 👨‍💻 Author
 
-**Kushal** — GTU Internship 2026
+**Kushal** 
 > Domain: Border Defence & Surveillance
 
 ---
@@ -182,3 +182,4 @@ SmartBorder-AI/
 ## 📄 License
 
 MIT License — free to use for educational purposes.
+
