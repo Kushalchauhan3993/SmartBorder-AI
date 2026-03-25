@@ -182,3 +182,4 @@ SmartBorder-AI/
 ## 📄 License
 
 MIT License — free to use for educational purposes.
+

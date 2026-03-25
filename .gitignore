@@ -3,12 +3,7 @@
 *.joblib
 
 # Dataset (too large for GitHub)
-# Exclude large files
-Train_data.csv
-smart_alerts_final.csv
-model_comparison.csv
-feature_importance.csv
-alert_summary.csv
+*.csv
 !requirements.txt
 
 # Python cache
