@@ -1,6 +1,6 @@
 # 🛡️ SmartBorder AI — Real-Time Intruder Detection & Threat Heatmap System
 
-> GTU Internship 2026 | Problem Domain: Border Defence & Surveillance
+ Problem Domain: Border Defence & Surveillance
 
 ---
 
